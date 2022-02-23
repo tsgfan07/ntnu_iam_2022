@@ -15,7 +15,7 @@ Dates
 
 ### 2 March
 - Philip: Arvesen et al. (2018) Deriving life cycle assessment coefficients for application in integrated assessment modelling. Environmental Modelling & Software 99, pp 111-125, [doi:10.1016/j.envsoft.2017.09.010](https://doi.org/10.1016/j.envsoft.2017.09.010)
-- TDB
+- Jan: Yeh et al. (2017) Detailed assessment of global transport-energy models’ structures and projections. Transportation Research Part D: Transport and Environment 55, pp 294-309 .[doi:10.1016/j.trd.2016.11.001]
 - consultation
 
 ### 9 March
