@@ -15,10 +15,11 @@ Dates
 
 ### 2 March
 - Philip: Arvesen et al. (2018) Deriving life cycle assessment coefficients for application in integrated assessment modelling. Environmental Modelling & Software 99, pp 111-125, [doi:10.1016/j.envsoft.2017.09.010](https://doi.org/10.1016/j.envsoft.2017.09.010)
-- Jan: Yeh et al. (2017) Detailed assessment of global transport-energy models’ structures and projections. Transportation Research Part D: Transport and Environment 55, pp 294-309 .[doi:10.1016/j.trd.2016.11.001]
+- Elisa: Mendoza Beltran et al. (2020) When the Background Matters : Using Scenarios from Integrated Assessment Models in Prospective Life Cycle Assessment. Journal of Industrial Ecology, 24(1), pp 64–79. [doi:10.1111/jiec.12825](https://doi.org/10.1111/jiec.12825)
 - consultation
 
 ### 9 March
+- Rita: Saujot et al. (2021) Lifestyle changes in mitigation pathways: policy and scientific insights. Environ. Res. Lett. 16 015005. [doi:10.1088/1748-9326/abd0a9](https://doi.org/10.1088/1748-9326/abd0a9)
 - TDB
 - consultation
 
